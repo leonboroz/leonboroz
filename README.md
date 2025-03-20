@@ -35,7 +35,7 @@
 Я верю, что практика – лучший способ учиться, поэтому веду портфолио проектов.  
 Оно включает анализ данных, визуализации и работу с SQL.  
 
-🔗 **Портфолио** → [GitHub Portfolio](https://github.com/ТВОЙ_НИК/portfolio)  
+🔗 **Портфолио** → [GitHub Portfolio](https://github.com/leonboroz/Portfolio)  
 
 🎯 **Что дальше?**  
 
@@ -43,9 +43,9 @@
 
 📫 **Контакты**  
 
-- 📩 **Email**: Icloud  
-- 🔗 **LinkedIn**: [Leonid Borzyh](https://linkedin.com/in/ТВОЙ_НИК)  
-- 📨 **Telegram**: [Леонид](https://t.me/ТВОЙ_НИК)  
+- 📩 **Email**: [Icloud](mailto:borozyakll@icloud.com)  
+- 🔗 **LinkedIn**: [Leonid Borzyh](https://www.linkedin.com/feed/) 
+- 📨 **Telegram**: [Леонид](https://t.me/Leonid_Borzyh)  
 
 
 
