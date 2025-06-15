@@ -29,8 +29,9 @@ Python (pandas, numpy): обработка данных, ETL, API
 
 ## 💼 Основные проекты
 
- [SQL_database](./SQL_database) | Проектирование, наполнение и анализ БД, имитация реальной задачи с изменениями требований | PostgreSQL, SQLAlchemy, Python |
- [Automated_ETL_API_to_DB](./Automated_ETL_API_to_DB) | Автоматический сбор данных из API и загрузка в БД | Python, pandas, requests, PostgreSQL |
+ [SQL_database](./SQL_database) : Проектирование, наполнение и анализ БД, имитация реальной задачи с изменениями требований | PostgreSQL, SQLAlchemy, Python 
+ 
+ [Automated_ETL_API_to_DB](./Automated_ETL_API_to_DB): Автоматический сбор данных из API и загрузка в БД | Python, pandas, requests, PostgreSQL 
  [Ad_campaign_impact](./Ad_campaign_impact) | Стат. анализ эффективности рекламной акции | Python, SciPy |
  [Python_visualization_work](./Python_visualization_work) | Визуализация данных с matplotlib и seaborn | Python, matplotlib, seaborn |
  [Other_tools](./Other_tools) | Работы в Power BI, Excel, вспомогательные задания | Power BI, Excel |
