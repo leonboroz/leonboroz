@@ -31,15 +31,15 @@ Python (pandas, numpy): обработка данных, ETL, API
 
  [SQL_database](https://github.com/leonboroz/Portfolio/blob/main/SQL_database/README.md) : Проектирование, наполнение и анализ БД, имитация реальной задачи с изменениями требований | PostgreSQL, SQLAlchemy, Python 
  
- [Automated_ETL_API_to_DB](./Automated_ETL_API_to_DB) : Автоматический сбор данных из API и загрузка в БД | Python, pandas, requests, PostgreSQL 
+ [Automated_ETL_API_to_DB](https://github.com/leonboroz/Portfolio/blob/main/Automated_ETL_API_to_DB/README.md) : Автоматический сбор данных из API и загрузка в БД | Python, pandas, requests, PostgreSQL 
  
- [Ad_campaign_impact](./Ad_campaign_impact) : Стат. анализ эффективности рекламной акции  Python, SciPy 
+ [Ad_campaign_impact](https://github.com/leonboroz/Portfolio/blob/main/Ad_campaign_impact/README.md) : Стат. анализ эффективности рекламной акции  Python, SciPy 
  
- [Python_visualization_work](./Python_visualization_work) :  Визуализация данных с matplotlib и seaborn  Python, matplotlib, seaborn 
+ [Python_visualization_work](https://github.com/leonboroz/Portfolio/blob/main/Python_visualization_work/README.md) :  Визуализация данных с matplotlib и seaborn  Python, Matplotlib, Seaborn 
  
- [Other_tools](./Other_tools)   Работы в Power BI, Excel, вспомогательные задания  Power BI, Excel 
+ [Other_tools](https://github.com/leonboroz/Portfolio/blob/main/Other_tools/README.md)   Работы в Power BI, Excel, вспомогательные задания  Power BI, Excel 
 
-Веду портфолио проектов, где реализую задачи по обработке и визуализации данных.
+[Веду портфолио проектов, где реализую задачи по обработке и визуализации данных](https://github.com/leonboroz/Portfolio/blob/main/README.md)
 
 
 # 📫 **Контакты**  
