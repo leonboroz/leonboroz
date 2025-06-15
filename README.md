@@ -29,7 +29,7 @@ Python (pandas, numpy): обработка данных, ETL, API
 
 #  💼 Основные проекты
 
- [SQL_database](SQL_database/README.md) : Проектирование, наполнение и анализ БД, имитация реальной задачи с изменениями требований | PostgreSQL, SQLAlchemy, Python 
+ [SQL_database](https://github.com/leonboroz/Portfolio/blob/main/SQL_database/README.md) : Проектирование, наполнение и анализ БД, имитация реальной задачи с изменениями требований | PostgreSQL, SQLAlchemy, Python 
  
  [Automated_ETL_API_to_DB](./Automated_ETL_API_to_DB) : Автоматический сбор данных из API и загрузка в БД | Python, pandas, requests, PostgreSQL 
  
