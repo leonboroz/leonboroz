@@ -36,9 +36,14 @@ Python (pandas, numpy): обработка данных, ETL, API
 
 – Визуализация через Metabase
  
- [Automated_ETL_API_to_DB](https://github.com/leonboroz/Portfolio/blob/main/Automated_ETL_API_to_DB/README.md)  Автоматический ETL: подключение к внешнему API, парсинг, загрузка в PostgreSQL.
+ [Automated_ETL_API_to_DB](https://github.com/leonboroz/Portfolio/blob/main/Automated_ETL_API_to_DB/README.md)
+ 
+ Автоматический ETL: подключение к внешнему API, парсинг, загрузка в PostgreSQL.
+
 – Парсинг JSON, нормализация структур (Python, pandas, requests)
+
 – PostgreSQL: создание таблиц, индексация
+
 – Логгирование и проверка на дубликаты
  
  [Ad_campaign_impact](https://github.com/leonboroz/Portfolio/blob/main/Ad_campaign_impact/README.md) : Стат. анализ эффективности рекламной акции  Python, SciPy 
