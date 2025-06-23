@@ -26,9 +26,14 @@ Python (pandas, numpy): обработка данных, ETL, API
 
 #  💼 Основные проекты
 
- [SQL_database](https://github.com/leonboroz/Portfolio/blob/main/SQL_database/README.md)   Создание базы и витрин “с нуля” под бизнес-кейс:
+ [SQL_database](https://github.com/leonboroz/Portfolio/blob/main/SQL_database/README.md)  
+ 
+ Создание базы и витрин “с нуля” под бизнес-кейс:
+
 – SQL-структура с несколькими таблицами
+
 – Написание витрин, аналитических запросов
+
 – Визуализация через Metabase
  
  [Automated_ETL_API_to_DB](https://github.com/leonboroz/Portfolio/blob/main/Automated_ETL_API_to_DB/README.md)  Автоматический ETL: подключение к внешнему API, парсинг, загрузка в PostgreSQL.
